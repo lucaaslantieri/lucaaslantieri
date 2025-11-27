@@ -4,8 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-My name is Lucas. I'm a first-year Computer Science student, also finishing my degree in Image and Sound Design. 
-I work as a robotics and video game instructor and as a teaching assistant at the Faculty of Architecture, Design, and Urban Planning (FADU).
+My name is Lucas Lantieri. I'm a computer science student and also a music producer. I work as a computer science teacher and a freelance web developer. In my free time, I produce songs for bands and solo artists.
 
 I love learning, innovating, developing, and learning new things every day.
 
